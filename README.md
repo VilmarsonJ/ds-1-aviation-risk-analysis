@@ -3,7 +3,7 @@
 ## Civil aviation accidents
 
 --- 
-![photo](Images/Log2.jpg)
+![photo](Images/logoo.jpg)
 
 Auther : [Vilmarson JULES](vilmarsonjules22@gmail.com)
 
@@ -20,7 +20,7 @@ Then,this project is intended to :
 ## Business problem
 
 ---
-![Photo2](Images/Crash1.jpg)
+![Photo2](Images/image1.2.jpg)
 
 Many companies are exploring entry into the aviation industry — both in commercial and private operations. However, aviation is a high-stakes sector with substantial operational and safety risks. One key concern is identifying which types of aircraft pose the least safety risk, especially given the potential financial and human costs of accidents.
 
