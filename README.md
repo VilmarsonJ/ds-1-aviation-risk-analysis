@@ -162,7 +162,18 @@ Delve into the complete analytical workflow in the [Jupyter Notebook](./civil_av
 
 For professional inquiries, collaborations, or deeper discussions about the methodology and implications, feel free to reach out to Vilmarson JULES at [vilmarsonjules22@gmail.com](vilmarsonjules22@gmail.com)
 
-![Photo](Images\logo.png)
+![Photo](Images/end.png)
 
+
+## Repository Structure
+
+```
+
+├── Data
+├── Images
+├── README.md
+├── civil_aviation_risk_analysis.pdf
+└── civil_aviation_risk_analysis.ipynb
+```
 
 
