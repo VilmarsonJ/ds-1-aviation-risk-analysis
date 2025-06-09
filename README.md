@@ -1,6 +1,9 @@
-# Aviantion risk - My_Dsc_1stProject
 
+# Flight Risk Analysis: A Data-Driven Approach to Aircraft Safety Evaluation - First Project
 ## Civil aviation accidents
+--- 
+![photo](Images/Log2.jpg)
+
 
 This project analyzes civil risk accident [data](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from 19962 to 2023 to identify the *lowest-risk* aircraft for commercial an private enterprises. I leverage this data from the National Transportation Safety Board *(NTSB)* an there after I used my academic and profesionnal skills to :
 - Explore, and clean the dataset,
