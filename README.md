@@ -165,31 +165,4 @@ For professional inquiries, collaborations, or deeper discussions about the meth
 ![Photo](Images\logo.png)
 
 
-aviation-risk-analysis/
-│
-├── data/
-│   ├── raw/                     # Original raw datasets (e.g., NTSB, FAA)
-│   ├── processed/               # Cleaned and merged datasets (e.g., usa_merged.csv)
-│   └── external/                # Any supporting external data (e.g., weather, geolocation)
-│
-├── notebooks/
-│   └── aviation-risk-analysis.ipynb  # Full exploratory data analysis and modeling notebook
-│
-├── visuals/
-│   ├── plots/                   # Generated graphs and charts (e.g., accident by state)
-│   └── presentation/            # Visuals used in slides
-│
-├── reports/
-│   ├── Aviation_Risk_Presentation.pdf  # Final presentation
-│   └── README_summary.md               # Optional executive summary
-│
-├── scripts/
-│   ├── data_cleaning.py         # Data preprocessing scripts
-│   └── eda_utils.py             # Reusable code for EDA or plotting
-│
-├── README.md                    # Project overview, findings, and usage instructions
-├── requirements.txt             # Python packages and libraries used
-└── .gitignore                   # Files to ignore in version control (e.g., .DS_Store, .ipynb_checkpoints)
-
-
 
