@@ -158,7 +158,7 @@ These next steps will enhance the precision of your risk evaluation framework an
 
 ---
 
-Delve into the complete analytical workflow in the [Jupyter Notebook](./civil_aviation_risk_analysis.ipynb) or consult the accompanying [presentation](./civil_aviation_risk_analysis.ipynb) slides for a high-level summary of key findings and recommendations.
+Delve into the complete analytical workflow in the [Jupyter Notebook](./civil_aviation_risk_analysis.ipynb) or consult the accompanying [presentation](./civil_aviation_risk_presentation.pdf) slides for a high-level summary of key findings and recommendations.
 
 For professional inquiries, collaborations, or deeper discussions about the methodology and implications, feel free to reach out to Vilmarson JULES at [vilmarsonjules22@gmail.com](vilmarsonjules22@gmail.com)
 
@@ -172,7 +172,7 @@ For professional inquiries, collaborations, or deeper discussions about the meth
 ├── Data
 ├── Images
 ├── README.md
-├── civil_aviation_risk_analysis.pdf
+├── civil_aviation_risk_presentation.pdf
 └── civil_aviation_risk_analysis.ipynb
 ```
 
