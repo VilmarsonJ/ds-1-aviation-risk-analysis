@@ -1,5 +1,5 @@
 
-# Civil Aviation Risk Analysisn - First Project
+# Civil Aviation Risk Analysis - First Project
 ## Civil aviation accidents
 
 --- 
