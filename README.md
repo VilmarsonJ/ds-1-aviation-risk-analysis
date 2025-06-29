@@ -9,7 +9,7 @@ Auther : [Vilmarson JULES](vilmarsonjules22@gmail.com)
 
 ### Overview
 ---
-This project is intended to analyze aviation risk accident from the National Transportation Safety Board [(NTSB)](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from **(19962 to 2023)**.
+This project is intended to analyze aviation risk accident from the National Transportation Safety Board [(NTSB)](https://www.kaggle.com/datasets/khsamaha/aviation-accident-database-synopses) from **(1962 to 2023)**.
 
 Then,this project is intended to :
 
