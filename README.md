@@ -5,7 +5,7 @@
 --- 
 ![photo](Images/logoo.jpg)
 
-Auther : [Vilmarson JULES](vilmarsonjules22@gmail.com)
+Author : [Vilmarson JULES](vilmarsonjules22@gmail.com)
 
 ### Overview
 ---
